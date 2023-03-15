@@ -1,0 +1,64 @@
+ 
+.carousel-item img {
+
+    
+  width: auto;
+  height: 200px;
+  object-fit:contain;
+  object-position: center;
+  background-color:#040b14;
+}
+
+.comments button{
+    float:right;
+
+}
+
+.accordion-item{
+    border: 0;
+}
+
+#about{
+    padding-bottom: 30px;
+}
+
+#resume{
+    padding-bottom: 30px;
+}
+
+.quote{
+    background-color: #d6d7da;
+    text-align: center;
+}
+
+ 
+ 
+
+ 
+.r-s-s a{
+    padding: 0 5px 30px 5px;
+    flex-grow: 1;
+    
+}
+
+.r-s-s{
+    justify-content:space-between;
+    align-items: center;
+
+}
+ 
+.accordion-item{
+    background-color:red; /* Replace with your desired background color */
+  }
+
+#navbar{
+    align-items: center;
+    justify-content: center;
+}
+
+.mydp{
+    align-items: center;
+    justify-content: center;
+}
+
+  
